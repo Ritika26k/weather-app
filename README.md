@@ -25,9 +25,11 @@ OpenWeatherMap API
 
 📸 Screenshot
 
-<img width="827" height="930" alt="Screenshot 2025-07-16 204127" src="https://github.com/user-attachments/assets/9ed5ec96-e92a-4300-909b-fa2fac7a423d" />
-<img width="642" height="910" alt="Screenshot 2025-07-16 204147" src="https://github.com/user-attachments/assets/a6fe4366-a75f-4bcf-bde0-377f55956575" />
-<img width="688" height="854" alt="Screenshot 2025-07-16 204215" src="https://github.com/user-attachments/assets/bb10764d-21d7-4753-aa9f-815229717f62" />
+<img width="500" height="500" alt="Screenshot 2025-07-16 204127" src="https://github.com/user-attachments/assets/9ed5ec96-e92a-4300-909b-fa2fac7a423d" />
+
+<img width="600" height="650" alt="Screenshot 2025-07-16 204147" src="https://github.com/user-attachments/assets/a6fe4366-a75f-4bcf-bde0-377f55956575" />
+
+<img width="600" height="650" alt="Screenshot 2025-07-16 204215" src="https://github.com/user-attachments/assets/bb10764d-21d7-4753-aa9f-815229717f62" />
 
 
 
