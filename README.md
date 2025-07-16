@@ -7,8 +7,11 @@ A sleek and responsive weather forecasting app built with React + Vite, using th
 🔧 Tech Stack
 
 React (with Vite for fast build)
+
 JavaScript (ES6+)
+
 CSS3
+
 OpenWeatherMap API
 
 
@@ -16,9 +19,13 @@ OpenWeatherMap API
 ✨ Features
 
 🌍 Get live weather by city name
+
 🌡️ Temperature, humidity, wind details
+
 ⛅ Weather icons based on conditions
+
 🔍 Search with auto-fetch
+
 📱 Responsive design
 
 
@@ -36,6 +43,7 @@ OpenWeatherMap API
 🚀 How to Run
 
 npm install
+
 npm run dev
 
 
@@ -49,7 +57,11 @@ npm run build
 🧠 Learnings
 
 Practiced:
+
 React Hooks (useState, useEffect)
+
 Working with public APIs
+
 Conditional rendering and dynamic UI
+
 Asset management with Vite
